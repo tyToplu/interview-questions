@@ -1,0 +1,5 @@
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Release\net6.0\CSharpConsoleAppWithDLL.csproj.AssemblyReference.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Release\net6.0\CSharpConsoleAppWithDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Release\net6.0\CSharpConsoleAppWithDLL.AssemblyInfoInputs.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Release\net6.0\CSharpConsoleAppWithDLL.AssemblyInfo.cs
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Release\net6.0\CSharpConsoleAppWithDLL.csproj.CoreCompileInputs.cache

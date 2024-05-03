@@ -1,0 +1,11 @@
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\bin\Debug\DesktopAppThreads.exe.config
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\bin\Debug\DesktopAppThreads.exe
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\bin\Debug\DesktopAppThreads.pdb
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.csproj.AssemblyReference.cache
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.Form1.resources
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.Properties.Resources.resources
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.csproj.GenerateResource.cache
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.csproj.CoreCompileInputs.cache
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.exe
+C:\Users\Taha Yunus\source\repos\DesktopAppThreads\DesktopAppThreads\obj\Debug\DesktopAppThreads.pdb

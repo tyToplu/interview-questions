@@ -1,0 +1,7 @@
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\bin\WcfProject.dll.config
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\bin\WcfProject.dll
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\bin\WcfProject.pdb
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\obj\Debug\WcfProject.csproj.AssemblyReference.cache
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\obj\Debug\WcfProject.csproj.CoreCompileInputs.cache
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\obj\Debug\WcfProject.dll
+C:\Users\Taha Yunus\source\repos\WebServicesAndEntityLinking\WcfProject\obj\Debug\WcfProject.pdb

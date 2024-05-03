@@ -1,0 +1,15 @@
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\bin\Debug\net6.0\CSharpConsoleAppWithDLL.exe
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\bin\Debug\net6.0\CSharpConsoleAppWithDLL.deps.json
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\bin\Debug\net6.0\CSharpConsoleAppWithDLL.runtimeconfig.json
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\bin\Debug\net6.0\CSharpConsoleAppWithDLL.dll
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\bin\Debug\net6.0\CSharpConsoleAppWithDLL.pdb
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.csproj.AssemblyReference.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.AssemblyInfoInputs.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.AssemblyInfo.cs
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.csproj.CoreCompileInputs.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.dll
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\refint\CSharpConsoleAppWithDLL.dll
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.pdb
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\CSharpConsoleAppWithDLL.genruntimeconfig.cache
+C:\Users\Taha Yunus\source\repos\CSharpConsoleAppWithDLL\CSharpConsoleAppWithDLL\obj\Debug\net6.0\ref\CSharpConsoleAppWithDLL.dll

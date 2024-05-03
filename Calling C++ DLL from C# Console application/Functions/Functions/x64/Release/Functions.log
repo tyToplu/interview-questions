@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  functions.cpp
+     Creating library C:\Users\Taha Yunus\source\repos\Functions\x64\Release\Functions.lib and object C:\Users\Taha Yunus\source\repos\Functions\x64\Release\Functions.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Functions.vcxproj -> C:\Users\Taha Yunus\source\repos\Functions\x64\Release\Functions.dll
